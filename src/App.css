@@ -1,0 +1,52 @@
+.modalHeader{
+  color: indigo;
+  background-color: lavender;
+}
+
+.modalFooter{
+  background-color: lavender;
+  color: white;
+}
+
+.modalBody{
+  background-color: azure;
+}
+
+label{
+  cursor: pointer;
+  color: black;
+}
+
+.input{
+  box-shadow: 0 3px 30px 15px aliceblue;
+}
+
+.delete{
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  margin-left: 1.7rem;
+}
+
+.counterMenu{
+  display: flex;
+  justify-content: space-around;
+}
+
+.thead{
+  background-color: indigo;
+  color: white;
+  border-radius: 15px 15px 0 0 ;
+  border: 3px solid green;
+}
+
+.tbody{
+  background-color: rgb(190, 222, 233);
+  color: rgb(4, 0, 255);
+  border: 3px solid green;
+}
+
+.tbodyTr{
+  padding-top: 0.5rem;
+  margin-top: 0.5rem;
+}
